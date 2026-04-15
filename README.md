@@ -6,6 +6,8 @@
 
 ##### [View Code (PowerMeterFailurePredictiveModels.ipynb)](PowerMeterFailurePredictiveModels.ipynb) for the detailed methods.
 
+##### Basic info and some selected results are shown below
+
 ![Demo](Readme/1.PNG)
 ![Demo](Readme/2.PNG)
 ![Demo](Readme/3.PNG)
