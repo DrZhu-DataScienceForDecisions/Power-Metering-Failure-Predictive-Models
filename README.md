@@ -1,8 +1,8 @@
-## Power Metering Failure Predictive Models
+## Power Meter Failure Predictive Models
 
-#### This repo provides predictive machine learning solutions for power company to identify potential electric metering failures based on data science.
+#### This repo provides predictive machine learning solutions for power companies to identify potential electric meter failures using data science methods.
 
-#### Goal: reduce cost for replacing electric meters and reduce potential costs due to metering failures.
+#### Goal: help power companies plan proactively and replace meters in advance so as to maintain service stability and reduce potential costs caused by meter failures.
 
 ![Demo](Readme/1.PNG)
 ![Demo](Readme/2.PNG)
