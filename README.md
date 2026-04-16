@@ -4,9 +4,9 @@
 
 #### This repo provides predictive machine learning solutions for power companies to identify potential electric meter failures using data science methods.
 
-##### [View Code (PowerMeterFailurePredictiveModels.ipynb)](PowerMeterFailurePredictiveModels.ipynb) for the detailed methods.
+#### [View Code (PowerMeterFailurePredictiveModels.ipynb)](PowerMeterFailurePredictiveModels.ipynb) for the detailed methods.
 
-##### Basic info and some selected results are shown below
+#### Basic info and some selected results are shown below
 
 ![Demo](Readme/1.PNG)
 ![Demo](Readme/2.PNG)
